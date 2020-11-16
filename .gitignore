@@ -1,0 +1,12 @@
+# pythonの不要部分
+__pycache__/
+*.py[cod]
+
+# jupyterの不要部分
+.ipynb_checkpoints/
+
+
+# その他
+pandas_db/
+sample_db/
+*.db
